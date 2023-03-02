@@ -1,6 +1,6 @@
 ## **Iron Worker**
 *Phone:* (562)-552-7768 *GitHub:* GitHub.com/KrystopherQ <br> 
-*Email:* krsytopher.q@gmail.com *Linkedin:* @krystopher-quintero-955320238<br>
+*Email:* krystopher.q@gmail.com *Linkedin:* @krystopher-quintero-955320238<br>
 
 Hard working, bilingual Iron Worker. Passionate and motivated with a drive to excell in all projects. Certified Full Stack Web Developer seeking new opportunities to excell in.
 
