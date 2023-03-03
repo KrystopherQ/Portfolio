@@ -3,7 +3,7 @@ import Project from '../Project';
 import pethub from '../../images/pethub.png'
 import weather from '../../images/weather.png'
 import planner from '../../images/planner.png'
-import teamGen from '../../team.gif'
+import teamGen from '../../images/team.gif'
 import pass from '../../images/pass.png'
 import ecommerce from '../../images/ecommerce.gif'
 
