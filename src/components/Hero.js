@@ -12,7 +12,7 @@ function Hero() {
         <section className="hero min-h-screen" style={styles.heroStyle}>
             <div className="hero-content flex-col lg:flex-row">
                 <div>
-                    <h1 className="text-3xl font-bold">Krystopher Quintero</h1>
+                    <h1 className="text-4xl font-bold">Krystopher Quintero</h1>
                 </div>
             </div>
         </section>
