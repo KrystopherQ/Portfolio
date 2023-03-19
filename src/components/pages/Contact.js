@@ -5,6 +5,7 @@ export const Contact = () => {
   const form = useRef();
 
   const sendEmail = (e) => {
+    alert('Message sent successfully')
     e.preventDefault();
 
     emailjs.sendForm('service_5cusqyi', 'template_y3it7ab', form.current, 'P70j-1uIR9AKFCuum')
@@ -32,7 +33,7 @@ export const Contact = () => {
         <div className='inline-block form-control w-5/6 mx-auto'>
             <label>Message</label>
             <textarea  className="textarea textarea-bordered h-48 w-full resize-none" name="message" />
-            <button type="submit" value="Send" >send</button>
+            <button className="btn btn-success" type="submit" value="Send" >send</button>
       </div>
       </form>
     </div>
