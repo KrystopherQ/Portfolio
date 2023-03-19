@@ -10,7 +10,7 @@
  * [License](#license)
             
 ## Usage 
-    You can use my portfolio and site to judge if I am a good fit for your company. This site was coded by me from start to finish including future updates I will be doing. 
+  You can use my portfolio and site to judge if I am a good fit for your company. This site was coded by me from start to finish including future updates I will be doing. 
             
             
 ## License
