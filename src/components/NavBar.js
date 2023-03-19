@@ -25,7 +25,7 @@ function NavBar({ currentPage, handlePageChange }) {
                     <li><a href="#about" onClick={() => handlePageChange('About')} className={currentPage === 'About' ? 'btn-active' : ''}>About Me</a></li>
                     <li><a href="#projects" onClick={() => handlePageChange('Projects')} className={currentPage === 'Projects' ? 'btn-active' : ''}>Projects</a></li>
                     <li><a href="#contact" onClick={() => handlePageChange('Contact')} className={currentPage === 'Contact' ? 'btn-active' : ''}>Contact</a></li>
-                    <li><a href="#/Resume.pdf" target="_blank" rel="noreferrer">Resume</a></li>
+                    <li><a href="/Resume.pdf" target="_blank" rel="noreferrer">Resume</a></li>
                 </ul>
             </div>
         </div>
