@@ -1,5 +1,5 @@
 import React from 'react';
-import resume from '../Resume.pdf'
+import resume from '../KrystopherQuinteroResume.pdf'
 
 function NavBar({ currentPage, handlePageChange }) {
     return (
