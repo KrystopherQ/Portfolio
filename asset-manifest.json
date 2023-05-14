@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4b070918.css",
-    "main.js": "/Portfolio/static/js/main.761839dd.js",
+    "main.js": "/Portfolio/static/js/main.dd6cff39.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/team.gif": "/Portfolio/static/media/team.a215a3d150dbeada3d37.gif",
     "static/media/ecommerce.gif": "/Portfolio/static/media/ecommerce.c725a109bf245d5fbf1a.gif",
@@ -10,14 +10,14 @@
     "static/media/weather.png": "/Portfolio/static/media/weather.6f5a4021e2170d778d5a.png",
     "static/media/planner.png": "/Portfolio/static/media/planner.dfeef3706c8e225ab188.png",
     "static/media/pass.png": "/Portfolio/static/media/pass.1e2dd55c10a549dacb7b.png",
-    "static/media/KrystopherQuinteroResume.pdf": "/Portfolio/static/media/KrystopherQuinteroResume.060cb5b34bbb0bccb9b8.pdf",
+    "static/media/KrystopherQuinteroResume.pdf": "/Portfolio/static/media/KrystopherQuinteroResume.da0cf52fd7a28e61b1b9.pdf",
     "index.html": "/Portfolio/index.html",
     "main.4b070918.css.map": "/Portfolio/static/css/main.4b070918.css.map",
-    "main.761839dd.js.map": "/Portfolio/static/js/main.761839dd.js.map",
+    "main.dd6cff39.js.map": "/Portfolio/static/js/main.dd6cff39.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4b070918.css",
-    "static/js/main.761839dd.js"
+    "static/js/main.dd6cff39.js"
   ]
 }
