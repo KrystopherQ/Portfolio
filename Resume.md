@@ -12,7 +12,13 @@ HTML5, JavaScript, CSS, Express.js, Jquery, Moment.js, MySQL, Node.js, JSON, AJA
 
 ## **Experience**
 
-2022-Present <br> 
+2023-Present <br> 
+*Lawrence Equipment - CNC Operator/Programmer* <br>
+Operate BLM Lasertube LT Fiber EVO <br>
+Perform repairs <br>
+Program pieces that need to be cut <br>
+
+2022-2023 <br> 
 *All Star Metals - Iron Worker Foreman* <br>
 Manage logistics outbound of steel deliveries to ensure prompt service <br>
 Verify blueprint measurements to manage quality assurance <br>
@@ -42,6 +48,6 @@ Fabricate handrails, gates, structual beams, etc.<br>
 
 ## **Reference**
 
-### **Arturo Reveles** <br>
+### **Arturo Reveles** <br>  
 Shop Foreman, RND<br>
 Phone: (951)-623-7356
